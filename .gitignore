@@ -1,0 +1,4 @@
+heralding/my_venv/
+*.log
+*.csv
+__pycache__/
